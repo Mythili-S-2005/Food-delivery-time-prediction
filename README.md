@@ -59,6 +59,6 @@ food-delivery-time-prediction
 
 ---
 
-##  Future Work
+##   Work Deployed
 - Add live prediction using Streamlit
 - Deploy via Flask API
